@@ -13,6 +13,7 @@
     <div v-for="item in message5">
         {{ item }}
     </div>
+    
 
  
 </template>
