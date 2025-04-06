@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import './style.css'
 //import App from './App.vue'
-import App from './pages/Grand.vue'
+import App from './pages/useSlot.vue'
 createApp(App).mount('#app')
 //import { createApp } from 'vue';
 //import ElementPlus from 'element-plus';
