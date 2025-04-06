@@ -6,7 +6,7 @@
     <button @click="add">加n</button><!--触发事件-->
   </template>
   
-  <script setup>
+  <script setup> 
   // 这里可以添加 C 组件的逻辑
   import { ref} from 'vue'
   
